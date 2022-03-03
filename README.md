@@ -7,6 +7,7 @@
 - Words https://www.thisworddoesnotexist.com
 - Code https://doesnotexist.codes
 - Sneakers https://thissneakerdoesnotexist.com
+- Cities http://thiscitydoesnotexist.com
 
 ## Contributions
 
