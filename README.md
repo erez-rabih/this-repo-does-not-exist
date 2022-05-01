@@ -8,6 +8,7 @@
 - Code https://doesnotexist.codes
 - Sneakers https://thissneakerdoesnotexist.com
 - Cities http://thiscitydoesnotexist.com
+- AI https://thisaidoesnotexist.com/
 
 ## Contributions
 
